@@ -1,4 +1,4 @@
-package com.example.bibinton
+package com.bibinton
 
 import android.app.AlertDialog
 import android.os.Bundle
@@ -7,6 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import com.example.bibinton.R
 import com.example.bibinton.databinding.FragmentPlayersBinding
 import kotlinx.parcelize.Parcelize
 

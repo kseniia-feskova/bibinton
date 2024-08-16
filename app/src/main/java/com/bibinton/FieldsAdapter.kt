@@ -1,4 +1,4 @@
-package com.example.bibinton
+package com.bibinton
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
